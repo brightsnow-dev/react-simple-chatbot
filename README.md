@@ -47,6 +47,10 @@ ReactDOM.render(
 );
 ```
 
+## React Simple Chatbot with AI
+
+1. [CodeParrot AI](https://codeparrot.ai/oracle?owner=LucasBassetti&repo=react-simple-chatbot) - Bot will help you understand this repository better. You can ask for code examples, installation guide, debugging help and much more.
+
 ## React Simple Chatbot on media
 
 1. [webdesignerdepot](https://www.webdesignerdepot.com/2017/08/whats-new-for-designers-august-2017/)
